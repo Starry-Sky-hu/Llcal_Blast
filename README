@@ -1,0 +1,32 @@
+Local blast
+
+>>>>>Target
+Extract pp2c promoter in various species
+
+>>>>>Structure of the Source
+0. Construct blast database
+1. blast in database
+2. Extract sequence
+
+
+>>>>>Path of relational file
+
+>>>Software:
+blast: /public/agis/huangsanwen_group/fengshuangshuang/huyong/software/ncbi-blast-2.10.1+/bin
+seqkit: /public/home/fengshuangshuang/bin
+
+>>>Source:
+/public/agis/huangsanwen_group/fengshuangshuang/huyong/source/LocalBlast/LocalBlast.sh
+
+>>>Material:
+/public/agis/huangsanwen_group/fengshuangshuang/huyong/sp.genome
+
+>>>Err file:
+/public/agis/huangsanwen_group/fengshuangshuang/huyong/source/LocalBlast/zzz-qsub.history
+
+>>>Output file:
+Database of path:/public/agis/huangsanwen_group/fengshuangshuang/huyong/source/LocalBlast/test_db/test_db
+
+>>>>>Result
+Extract.fasta: pp2c and its 1500 upstream bases and downstream bases
+path: /public/agis/huangsanwen_group/fengshuangshuang/huyong/source/LocalBlast/Extract.fasta
