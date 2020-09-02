@@ -7,26 +7,23 @@ Extract pp2c promoter in various species
 0. Construct blast database
 1. blast in database
 2. Extract sequence
+3. Compare distance of promoter and CDS
 
 
 >>>>>Path of relational file
 
 >>>Software:
-blast: /public/agis/huangsanwen_group/fengshuangshuang/huyong/software/ncbi-blast-2.10.1+/bin
-seqkit: /public/home/fengshuangshuang/bin
+blast: 2.10.1+
+seqkit: 0.13.2
 
 >>>Source:
-/public/agis/huangsanwen_group/fengshuangshuang/huyong/source/LocalBlast/LocalBlast.sh
+AllExtractScript.sh: Script of extract PP2C promoter
+ExtractScript.sh: Script of extract CDS
 
 >>>Material:
-/public/agis/huangsanwen_group/fengshuangshuang/huyong/sp.genome
-
->>>Err file:
-/public/agis/huangsanwen_group/fengshuangshuang/huyong/source/LocalBlast/zzz-qsub.history
-
->>>Output file:
-Database of path:/public/agis/huangsanwen_group/fengshuangshuang/huyong/source/LocalBlast/test_db/test_db
+BGV006865, BGV007931, BGV007989, Brandywine, EA00371, EA00990, Fla.8924, Floradade Floradade, Heinz, LYC1410, M82, M82_MAS2.0, PAS014479, PI169588, PI303721, S_lycopersicum, Spenn, ZY56, ZY57, ZY58, ZY59, ZY60, ZY61, ZY62, ZY63, ZY65
 
 >>>>>Result
-Extract.fasta: pp2c and its 1500 upstream bases and downstream bases
-path: /public/agis/huangsanwen_group/fengshuangshuang/huyong/source/LocalBlast/Extract.fasta
+ExtractPP2C.fasta: pp2c and its 1500 upstream bases and downstream bases
+ExtractCDS.fasta: CDS
+PP2Ctable.table: distance of PP2C and CDS in Compare directory
