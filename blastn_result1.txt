@@ -1,8 +1,0 @@
-# BLASTN 2.10.1+
-# Query: LA0716
-# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/source/LocalBlast/test_db/test_db
-# Fields: subject acc.ver, query acc.ver, % identity, alignment length, s. start, s. end
-# 2 hits found
-NC_028643.1	LA0716	100.000	2436	76643455	76645890
-NC_028641.1	LA0716	97.297	37	3931272	3931236
-# BLAST processed 1 queries

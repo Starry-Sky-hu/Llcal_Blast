@@ -1,0 +1,222 @@
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/BGV006865_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+LA0716	BGV006865_MAS2.0ch07	90.220	2454	149	43	1	2436	63115744	63118124	0.0	3118
+LA0716	BGV006865_MAS2.0ch05	97.297	37	1	0	1328	1364	3687027	3686991	1.10e-07	63.9
+LA0716	BGV006865_MAS2.0ch09	100.000	32	0	0	805	836	67429787	67429818	1.42e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/BGV007931_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	BGV007931_MAS2.0ch07	90.261	2454	151	42	1	2436	66195366	66197749	0.0	3127
+LA0716	BGV007931_MAS2.0ch09	100.000	32	0	0	805	836	66507395	66507426	1.41e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/BGV007989_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	BGV007989_MAS2.0ch07	90.302	2454	151	41	1	2436	66184159	66186543	0.0	3133
+LA0716	BGV007989_MAS2.0ch09	100.000	32	0	0	805	836	67230977	67231008	1.43e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/Brandywine_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	Brandywine_MAS2.0ch07	90.302	2454	151	41	1	2436	65632757	65635141	0.0	3133
+LA0716	Brandywine_MAS2.0ch09	100.000	32	0	0	805	836	67816505	67816536	1.41e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/EA00371_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	EA00371_MAS2.0ch07	90.302	2454	151	41	1	2436	65222198	65224582	0.0	3133
+LA0716	EA00371_MAS2.0ch09	100.000	32	0	0	805	836	67121311	67121342	1.41e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/EA00990_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	EA00990_MAS2.0ch07	90.302	2454	151	41	1	2436	65235821	65238205	0.0	3133
+LA0716	EA00990_MAS2.0ch09	100.000	32	0	0	805	836	66345593	66345624	1.39e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/Fla.8924_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	Fla.8924_MAS2.0ch07	90.302	2454	151	41	1	2436	65475740	65478124	0.0	3133
+LA0716	Fla.8924_MAS2.0ch09	100.000	32	0	0	805	836	69835259	69835290	1.42e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/Floradade_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	Floradade_MAS2.0ch07	90.924	2457	142	38	1	2436	65732625	65735021	0.0	3227
+LA0716	Floradade_MAS2.0ch09	100.000	32	0	0	805	836	66211104	66211135	1.42e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/Heinz.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	SL4.0ch07	90.302	2454	150	42	1	2436	65436084	65438467	0.0	3133
+LA0716	SL4.0ch09	100.000	32	0	0	805	836	67113897	67113928	1.41e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/LYC1410_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+LA0716	LYC1410_MAS2.0ch07	90.302	2454	151	41	1	2436	65330417	65332801	0.0	3133
+LA0716	LYC1410_MAS2.0ch05	97.297	37	1	0	1328	1364	3543053	3543017	1.09e-07	63.9
+LA0716	LYC1410_MAS2.0ch09	100.000	32	0	0	805	836	65854706	65854737	1.40e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/M82.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+LA0716	Sly07	90.302	2454	151	41	1	2436	56979469	56981853	0.0	3133
+LA0716	Sly05	97.297	37	1	0	1328	1364	3558425	3558389	1.23e-07	63.9
+LA0716	Sly09	100.000	32	0	0	805	836	60111371	60111402	1.59e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/M82_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+LA0716	M82_MAS2.0ch07	90.302	2454	151	41	1	2436	65380091	65382475	0.0	3133
+LA0716	M82_MAS2.0ch05	97.297	37	1	0	1328	1364	3621355	3621319	1.10e-07	63.9
+LA0716	M82_MAS2.0ch09	100.000	32	0	0	805	836	66706091	66706122	1.42e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/PAS014479_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+LA0716	PAS014479_MAS2.0ch07	90.928	2458	141	39	1	2436	63145721	63148118	0.0	3229
+LA0716	PAS014479_MAS2.0ch05	97.297	37	1	0	1328	1364	3631172	3631136	1.10e-07	63.9
+LA0716	PAS014479_MAS2.0ch09	100.000	32	0	0	805	836	69269445	69269476	1.42e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/PI169588_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	PI169588_MAS2.0ch07	90.302	2454	151	41	1	2436	64617223	64619607	0.0	3133
+LA0716	PI169588_MAS2.0ch09	100.000	32	0	0	805	836	66887604	66887635	1.41e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/PI303721_MAS2.0.fasta.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	PI303721_MAS2.0ch07	90.302	2454	151	41	1	2436	64800943	64803327	0.0	3133
+LA0716	PI303721_MAS2.0ch09	100.000	32	0	0	805	836	67178917	67178948	1.40e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/S_lycopersicum_chromosomes.2.50.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	SL2.50ch07	90.302	2454	151	41	1	2436	65594115	65596499	0.0	3133
+LA0716	SL2.50ch09	100.000	32	0	0	805	836	71016698	71016729	1.48e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/Spenn.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	Spenn-ch07	100.000	2436	0	0	1	2436	76643455	76645890	0.0	4499
+LA0716	Spenn-ch05	97.297	37	1	0	1328	1364	3931272	3931236	1.38e-07	63.9
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/ZY56.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+LA0716	Sly07	90.709	2454	151	40	1	2436	67649957	67652351	0.0	3197
+LA0716	Sly05	97.297	37	1	0	1328	1364	3635400	3635364	1.12e-07	63.9
+LA0716	Sly09	100.000	32	0	0	805	836	70191864	70191895	1.45e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/ZY57.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+LA0716	Sly07	90.257	2453	153	38	1	2436	62267177	62269560	0.0	3127
+LA0716	Sly05	97.297	37	1	0	1328	1364	3476165	3476129	1.12e-07	63.9
+LA0716	Sly09	100.000	32	0	0	805	836	66205322	66205353	1.44e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/ZY58.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+LA0716	Sly07	95.780	1090	41	5	1	1088	60075644	60076730	0.0	1753
+LA0716	Sly07	89.416	1370	107	19	1081	2436	60077394	60078739	0.0	1692
+LA0716	Sly09	100.000	32	0	0	805	836	66414618	66414649	1.40e-06	60.2
+LA0716	Sly10	100.000	29	0	0	809	837	57963371	57963399	6.52e-05	54.7
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/ZY59.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	Sly07	89.869	2527	123	83	1	2436	68251851	68254335	0.0	3125
+LA0716	Sly05	97.297	37	1	0	1328	1364	3699256	3699220	1.34e-07	63.9
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/ZY60.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+LA0716	Sly07	95.963	1090	39	5	1	1088	61249991	61251077	0.0	1764
+LA0716	Sly07	88.605	1369	104	22	1081	2436	61251741	61253070	0.0	1616
+LA0716	Sly09	100.000	32	0	0	805	836	64723796	64723827	1.39e-06	60.2
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/ZY61.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+LA0716	Sly07	87.338	1311	112	20	1159	2436	68262705	68263994	0.0	1452
+LA0716	Sly07	97.630	675	12	4	460	1133	68262043	68262714	0.0	1155
+LA0716	Sly07	94.030	469	26	2	1	467	68259813	68260281	0.0	710
+LA0716	Sly05	97.297	37	1	0	1328	1364	3546479	3546443	1.21e-07	63.9
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/ZY62.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	Sly07	95.242	1135	28	7	1	1133	65734986	65736096	0.0	1773
+LA0716	Sly07	88.321	1310	101	20	1159	2436	65736087	65737376	0.0	1524
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/ZY63.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+LA0716	Sly07	96.137	1139	28	9	1	1133	58695294	58696422	0.0	1845
+LA0716	Sly07	88.298	1316	114	14	1159	2436	58696413	58697726	0.0	1541
+LA0716	Contig04312	95.522	1139	33	12	1	1133	34250	35376	0.0	1805
+LA0716	Contig04312	87.623	1317	119	18	1159	2436	35367	36678	0.0	1489
+# BLAST processed 1 queries
+# BLASTN 2.10.1+
+# Query: LA0716
+# Database: /public/agis/huangsanwen_group/fengshuangshuang/huyong/blast_genome/blastdb/ZY65.fa.gz_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+LA0716	Sly07	90.220	2454	153	41	1	2436	61710097	61712481	0.0	3121
+LA0716	Sly09	100.000	32	0	0	805	836	65242649	65242680	1.40e-06	60.2
+# BLAST processed 1 queries
