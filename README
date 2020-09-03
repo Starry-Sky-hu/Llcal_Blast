@@ -26,4 +26,4 @@ BGV006865, BGV007931, BGV007989, Brandywine, EA00371, EA00990, Fla.8924, Florada
 >>>>>Result
 ExtractPP2C.fasta: pp2c and its 1500 upstream bases and downstream bases
 ExtractCDS.fasta: CDS
-PP2Ctable.table: distance of PP2C and CDS in Compare directory
+PP2Ctable.table: distance of PP2C and CDS
